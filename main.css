@@ -57,6 +57,7 @@ footer{
 footer a{
   display:inline-block;
   margin-left:20px;
+  color: #fff;
 }
 footer a:hover{
     opacity:1;
