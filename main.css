@@ -519,3 +519,7 @@ pre{
 .position-absolute{
   position: absolute;
 }
+
+.text{
+  color: #343434;
+}
